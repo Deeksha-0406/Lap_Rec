@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692dc"
+  },
+  "Employee ID": "E001",
+  "Name": "John Doe",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-01-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692dd"
+  },
+  "Employee ID": "E002",
+  "Name": "Jane Smith",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Onboarding",
+  "Date": "2024-01-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692de"
+  },
+  "Employee ID": "E003",
+  "Name": "Emily Johnson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-01-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692df"
+  },
+  "Employee ID": "E004",
+  "Name": "Michael Brown",
+  "Role": "UX Designer",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-01-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e0"
+  },
+  "Employee ID": "E005",
+  "Name": "Linda Williams",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Apple MacBook Pro 13\"",
+  "Status": "Onboarding",
+  "Date": "2024-02-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e1"
+  },
+  "Employee ID": "E006",
+  "Name": "Chris Taylor",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Offboarding",
+  "Date": "2024-02-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e2"
+  },
+  "Employee ID": "E007",
+  "Name": "Jessica Lee",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Offboarding",
+  "Date": "2024-02-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e3"
+  },
+  "Employee ID": "E008",
+  "Name": "David Harris",
+  "Role": "Product Manager",
+  "Laptop Assigned": "HP EliteBook 840 G6",
+  "Status": "Onboarding",
+  "Date": "2024-02-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e4"
+  },
+  "Employee ID": "E009",
+  "Name": "Sarah Clark",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Offboarding",
+  "Date": "2024-02-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e5"
+  },
+  "Employee ID": "E010",
+  "Name": "Robert Lewis",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Onboarding",
+  "Date": "2024-02-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e6"
+  },
+  "Employee ID": "E011",
+  "Name": "Mary Walker",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Onboarding",
+  "Date": "2024-03-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e7"
+  },
+  "Employee ID": "E012",
+  "Name": "James Hall",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Offboarding",
+  "Date": "2024-03-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e8"
+  },
+  "Employee ID": "E013",
+  "Name": "Patricia Allen",
+  "Role": "Product Manager",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-03-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692e9"
+  },
+  "Employee ID": "E014",
+  "Name": "William Young",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Apple MacBook Pro 16\"",
+  "Status": "Offboarding",
+  "Date": "2024-03-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ea"
+  },
+  "Employee ID": "E015",
+  "Name": "Elizabeth Wright",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7400",
+  "Status": "Onboarding",
+  "Date": "2024-03-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692eb"
+  },
+  "Employee ID": "E016",
+  "Name": "Daniel Martinez",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Lenovo ThinkPad T14s",
+  "Status": "Offboarding",
+  "Date": "2024-03-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ec"
+  },
+  "Employee ID": "E017",
+  "Name": "Jennifer King",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-04-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ed"
+  },
+  "Employee ID": "E018",
+  "Name": "Michael Scott",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-04-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ee"
+  },
+  "Employee ID": "E019",
+  "Name": "Nancy Green",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Offboarding",
+  "Date": "2024-04-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ef"
+  },
+  "Employee ID": "E020",
+  "Name": "Andrew Adams",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-04-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f0"
+  },
+  "Employee ID": "E021",
+  "Name": "Linda Carter",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Offboarding",
+  "Date": "2024-04-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f1"
+  },
+  "Employee ID": "E022",
+  "Name": "David Baker",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Onboarding",
+  "Date": "2024-04-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f2"
+  },
+  "Employee ID": "E023",
+  "Name": "Susan Nelson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Offboarding",
+  "Date": "2024-05-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f3"
+  },
+  "Employee ID": "E024",
+  "Name": "James Mitchell",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Onboarding",
+  "Date": "2024-05-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f4"
+  },
+  "Employee ID": "E025",
+  "Name": "Karen Perez",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Offboarding",
+  "Date": "2024-05-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f5"
+  },
+  "Employee ID": "E026",
+  "Name": "Charles Roberts",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Onboarding",
+  "Date": "2024-05-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f6"
+  },
+  "Employee ID": "E027",
+  "Name": "Emily Lewis",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP EliteBook 840 G6",
+  "Status": "Onboarding",
+  "Date": "2024-05-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f7"
+  },
+  "Employee ID": "E028",
+  "Name": "Steven Harris",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Apple MacBook Pro 13\"",
+  "Status": "Offboarding",
+  "Date": "2024-05-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f8"
+  },
+  "Employee ID": "E029",
+  "Name": "Jessica Miller",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell Latitude 7400",
+  "Status": "Onboarding",
+  "Date": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692f9"
+  },
+  "Employee ID": "E030",
+  "Name": "Robert Johnson",
+  "Role": "HR Manager",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Offboarding",
+  "Date": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692fa"
+  },
+  "Employee ID": "E031",
+  "Name": "Mary Anderson",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Onboarding",
+  "Date": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692fb"
+  },
+  "Employee ID": "E032",
+  "Name": "John Martin",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Offboarding",
+  "Date": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692fc"
+  },
+  "Employee ID": "E033",
+  "Name": "Patricia Thompson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692fd"
+  },
+  "Employee ID": "E034",
+  "Name": "Michael White",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Offboarding",
+  "Date": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692fe"
+  },
+  "Employee ID": "E035",
+  "Name": "Linda Harris",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Onboarding",
+  "Date": "2024-07-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d128692ff"
+  },
+  "Employee ID": "E036",
+  "Name": "David Scott",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Lenovo ThinkPad T14s",
+  "Status": "Offboarding",
+  "Date": "2024-07-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869300"
+  },
+  "Employee ID": "E037",
+  "Name": "Susan Wright",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869301"
+  },
+  "Employee ID": "E038",
+  "Name": "Andrew Lee",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Offboarding",
+  "Date": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869302"
+  },
+  "Employee ID": "E039",
+  "Name": "Jessica Young",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Apple MacBook Pro 16\"",
+  "Status": "Onboarding",
+  "Date": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869303"
+  },
+  "Employee ID": "E040",
+  "Name": "Michael King",
+  "Role": "HR Manager",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Offboarding",
+  "Date": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869304"
+  },
+  "Employee ID": "E041",
+  "Name": "Emily Clark",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-08-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869305"
+  },
+  "Employee ID": "E042",
+  "Name": "Robert Martinez",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Apple MacBook Pro 13\"",
+  "Status": "Offboarding",
+  "Date": "2024-08-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869306"
+  },
+  "Employee ID": "E043",
+  "Name": "Jessica White",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Onboarding",
+  "Date": "2024-08-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869307"
+  },
+  "Employee ID": "E044",
+  "Name": "William Anderson",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell Latitude 7400",
+  "Status": "Offboarding",
+  "Date": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869308"
+  },
+  "Employee ID": "E045",
+  "Name": "Karen Thomas",
+  "Role": "HR Manager",
+  "Laptop Assigned": "HP EliteBook 840 G6",
+  "Status": "Onboarding",
+  "Date": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869309"
+  },
+  "Employee ID": "E046",
+  "Name": "Charles Johnson",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Offboarding",
+  "Date": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930a"
+  },
+  "Employee ID": "E047",
+  "Name": "Emily Davis",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-09-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930b"
+  },
+  "Employee ID": "E048",
+  "Name": "David Robinson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Offboarding",
+  "Date": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930c"
+  },
+  "Employee ID": "E049",
+  "Name": "Jessica Walker",
+  "Role": "UX Designer",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-09-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930d"
+  },
+  "Employee ID": "E050",
+  "Name": "Michael Young",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Offboarding",
+  "Date": "2024-09-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930e"
+  },
+  "Employee ID": "E051",
+  "Name": "Mary Lewis",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Onboarding",
+  "Date": "2024-09-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286930f"
+  },
+  "Employee ID": "E052",
+  "Name": "John Taylor",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Lenovo ThinkPad T14s",
+  "Status": "Offboarding",
+  "Date": "2024-09-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869310"
+  },
+  "Employee ID": "E053",
+  "Name": "Patricia Anderson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Onboarding",
+  "Date": "2024-10-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869311"
+  },
+  "Employee ID": "E054",
+  "Name": "Michael Thompson",
+  "Role": "UX Designer",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Offboarding",
+  "Date": "2024-10-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869312"
+  },
+  "Employee ID": "E055",
+  "Name": "Linda Martinez",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Onboarding",
+  "Date": "2024-10-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869313"
+  },
+  "Employee ID": "E056",
+  "Name": "David Harris",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Apple MacBook Pro 16\"",
+  "Status": "Offboarding",
+  "Date": "2024-10-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869314"
+  },
+  "Employee ID": "E057",
+  "Name": "Susan Clark",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-10-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869315"
+  },
+  "Employee ID": "E058",
+  "Name": "Andrew Wilson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "HP EliteBook 840 G6",
+  "Status": "Offboarding",
+  "Date": "2024-10-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869316"
+  },
+  "Employee ID": "E059",
+  "Name": "Jessica Adams",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Onboarding",
+  "Date": "2024-11-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869317"
+  },
+  "Employee ID": "E060",
+  "Name": "Robert Davis",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7400",
+  "Status": "Offboarding",
+  "Date": "2024-11-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869318"
+  },
+  "Employee ID": "E061",
+  "Name": "Emily Thomas",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-11-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869319"
+  },
+  "Employee ID": "E062",
+  "Name": "Michael Walker",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Offboarding",
+  "Date": "2024-11-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931a"
+  },
+  "Employee ID": "E063",
+  "Name": "Patricia White",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-11-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931b"
+  },
+  "Employee ID": "E064",
+  "Name": "James Martinez",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Offboarding",
+  "Date": "2024-11-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931c"
+  },
+  "Employee ID": "E065",
+  "Name": "Karen Young",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Apple MacBook Pro 13\"",
+  "Status": "Onboarding",
+  "Date": "2024-12-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931d"
+  },
+  "Employee ID": "E066",
+  "Name": "Charles Thompson",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Offboarding",
+  "Date": "2024-12-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931e"
+  },
+  "Employee ID": "E067",
+  "Name": "Linda Robinson",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-12-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286931f"
+  },
+  "Employee ID": "E068",
+  "Name": "David Clark",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Offboarding",
+  "Date": "2024-12-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869320"
+  },
+  "Employee ID": "E069",
+  "Name": "Susan Davis",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-12-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869321"
+  },
+  "Employee ID": "E070",
+  "Name": "Andrew Harris",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Offboarding",
+  "Date": "2024-12-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869322"
+  },
+  "Employee ID": "E071",
+  "Name": "Jessica Martinez",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Apple MacBook Pro 16\"",
+  "Status": "Onboarding",
+  "Date": "2024-01-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869323"
+  },
+  "Employee ID": "E072",
+  "Name": "Michael Green",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Lenovo ThinkPad T14s",
+  "Status": "Offboarding",
+  "Date": "2024-01-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869324"
+  },
+  "Employee ID": "E073",
+  "Name": "Karen Walker",
+  "Role": "Product Manager",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-01-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869325"
+  },
+  "Employee ID": "E074",
+  "Name": "Charles Adams",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Offboarding",
+  "Date": "2024-01-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869326"
+  },
+  "Employee ID": "E075",
+  "Name": "Linda Young",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Onboarding",
+  "Date": "2024-01-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869327"
+  },
+  "Employee ID": "E076",
+  "Name": "David Wright",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Offboarding",
+  "Date": "2024-02-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869328"
+  },
+  "Employee ID": "E077",
+  "Name": "Emily Martin",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP EliteBook 840 G6",
+  "Status": "Onboarding",
+  "Date": "2024-02-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869329"
+  },
+  "Employee ID": "E078",
+  "Name": "Andrew Scott",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Offboarding",
+  "Date": "2024-02-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932a"
+  },
+  "Employee ID": "E079",
+  "Name": "Jessica Taylor",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Onboarding",
+  "Date": "2024-02-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932b"
+  },
+  "Employee ID": "E080",
+  "Name": "Michael Harris",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Offboarding",
+  "Date": "2024-02-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932c"
+  },
+  "Employee ID": "E081",
+  "Name": "Linda Brown",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-02-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932d"
+  },
+  "Employee ID": "E082",
+  "Name": "David Wilson",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Offboarding",
+  "Date": "2024-03-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932e"
+  },
+  "Employee ID": "E083",
+  "Name": "Emily Anderson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Onboarding",
+  "Date": "2024-03-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286932f"
+  },
+  "Employee ID": "E084",
+  "Name": "Andrew Martinez",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Lenovo Yoga C740",
+  "Status": "Offboarding",
+  "Date": "2024-03-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869330"
+  },
+  "Employee ID": "E085",
+  "Name": "Jessica Young",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Onboarding",
+  "Date": "2024-03-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869331"
+  },
+  "Employee ID": "E086",
+  "Name": "Michael Thompson",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell Precision 5550",
+  "Status": "Offboarding",
+  "Date": "2024-03-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869332"
+  },
+  "Employee ID": "E087",
+  "Name": "Linda Johnson",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-03-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869333"
+  },
+  "Employee ID": "E088",
+  "Name": "David Clark",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Apple MacBook Pro 16\"",
+  "Status": "Offboarding",
+  "Date": "2024-04-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869334"
+  },
+  "Employee ID": "E089",
+  "Name": "Emily Davis",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-04-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869335"
+  },
+  "Employee ID": "E090",
+  "Name": "Andrew Robinson",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7400",
+  "Status": "Offboarding",
+  "Date": "2024-04-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869336"
+  },
+  "Employee ID": "E091",
+  "Name": "Jessica White",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "HP Spectre x360",
+  "Status": "Onboarding",
+  "Date": "2024-04-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869337"
+  },
+  "Employee ID": "E092",
+  "Name": "Michael Green",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "Lenovo ThinkPad X1",
+  "Status": "Offboarding",
+  "Date": "2024-04-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869338"
+  },
+  "Employee ID": "E093",
+  "Name": "Linda Adams",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Dell Latitude 7430",
+  "Status": "Onboarding",
+  "Date": "2024-04-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d12869339"
+  },
+  "Employee ID": "E094",
+  "Name": "David Walker",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Apple MacBook Air M2",
+  "Status": "Offboarding",
+  "Date": "2024-05-01"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933a"
+  },
+  "Employee ID": "E095",
+  "Name": "Susan Taylor",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Dell Latitude 7420",
+  "Status": "Onboarding",
+  "Date": "2024-05-05"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933b"
+  },
+  "Employee ID": "E096",
+  "Name": "Andrew Harris",
+  "Role": "Data Scientist",
+  "Laptop Assigned": "Dell XPS 15",
+  "Status": "Offboarding",
+  "Date": "2024-05-10"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933c"
+  },
+  "Employee ID": "E097",
+  "Name": "Jessica Martinez",
+  "Role": "Software Engineer",
+  "Laptop Assigned": "HP Envy x360",
+  "Status": "Onboarding",
+  "Date": "2024-05-15"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933d"
+  },
+  "Employee ID": "E098",
+  "Name": "Michael Wilson",
+  "Role": "Product Manager",
+  "Laptop Assigned": "Lenovo ThinkPad T14s",
+  "Status": "Offboarding",
+  "Date": "2024-05-20"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933e"
+  },
+  "Employee ID": "E099",
+  "Name": "Linda Johnson",
+  "Role": "UX Designer",
+  "Laptop Assigned": "Dell XPS 13",
+  "Status": "Onboarding",
+  "Date": "2024-05-25"
+},
+{
+  "_id": {
+    "$oid": "66b9abd44c04743d1286933f"
+  },
+  "Employee ID": "E100",
+  "Name": "David Roberts",
+  "Role": "HR Manager",
+  "Laptop Assigned": "Apple MacBook Pro 13\"",
+  "Status": "Offboarding",
+  "Date": "2024-06-01"
+}]

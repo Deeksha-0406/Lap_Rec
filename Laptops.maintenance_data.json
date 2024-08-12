@@ -1,0 +1,918 @@
+[{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869274"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-01",
+  "Next Maintenance Due": "2024-08-01"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869275"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-15",
+  "Next Maintenance Due": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869276"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-30",
+  "Next Maintenance Due": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869277"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-10",
+  "Next Maintenance Due": "2024-09-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869278"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869279"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-10",
+  "Next Maintenance Due": "2024-05-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927a"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-05",
+  "Next Maintenance Due": "2024-07-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927b"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-15",
+  "Next Maintenance Due": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927c"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-01",
+  "Next Maintenance Due": "2024-09-01"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927d"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-01",
+  "Next Maintenance Due": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927e"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286927f"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-30",
+  "Next Maintenance Due": "2024-08-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869280"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-20",
+  "Next Maintenance Due": "2024-05-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869281"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-10",
+  "Next Maintenance Due": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869282"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-05",
+  "Next Maintenance Due": "2024-08-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869283"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-15",
+  "Next Maintenance Due": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869284"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-05",
+  "Next Maintenance Due": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869285"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-10",
+  "Next Maintenance Due": "2024-08-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869286"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-07-20",
+  "Next Maintenance Due": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869287"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-25",
+  "Next Maintenance Due": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869288"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-15",
+  "Next Maintenance Due": "2024-09-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869289"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928a"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-15",
+  "Next Maintenance Due": "2024-05-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928b"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-10",
+  "Next Maintenance Due": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928c"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928d"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-09-05",
+  "Next Maintenance Due": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928e"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-05",
+  "Next Maintenance Due": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286928f"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-30",
+  "Next Maintenance Due": "2024-07-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869290"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869291"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-25",
+  "Next Maintenance Due": "2024-05-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869292"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-15",
+  "Next Maintenance Due": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869293"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-10",
+  "Next Maintenance Due": "2024-08-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869294"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-20",
+  "Next Maintenance Due": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869295"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-09-10",
+  "Next Maintenance Due": "2024-09-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869296"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-15",
+  "Next Maintenance Due": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869297"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869298"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d12869299"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-20",
+  "Next Maintenance Due": "2024-09-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929a"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-15",
+  "Next Maintenance Due": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929b"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-05-25",
+  "Next Maintenance Due": "2024-05-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929c"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-20",
+  "Next Maintenance Due": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929d"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929e"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-10",
+  "Next Maintenance Due": "2024-09-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d1286929f"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a0"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-15",
+  "Next Maintenance Due": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a1"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a2"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-05-30",
+  "Next Maintenance Due": "2024-05-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a3"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a4"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-15",
+  "Next Maintenance Due": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a5"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-25",
+  "Next Maintenance Due": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a6"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-15",
+  "Next Maintenance Due": "2024-09-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a7"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a8"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-07-30",
+  "Next Maintenance Due": "2024-07-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692a9"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-15",
+  "Next Maintenance Due": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692aa"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-25",
+  "Next Maintenance Due": "2024-09-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ab"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-30",
+  "Next Maintenance Due": "2024-08-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ac"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-05",
+  "Next Maintenance Due": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ad"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ae"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-30",
+  "Next Maintenance Due": "2024-08-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692af"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-15",
+  "Next Maintenance Due": "2024-09-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b0"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-15",
+  "Next Maintenance Due": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b1"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-20",
+  "Next Maintenance Due": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b2"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b3"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b4"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-20",
+  "Next Maintenance Due": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b5"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b6"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-30",
+  "Next Maintenance Due": "2024-06-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b7"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-20",
+  "Next Maintenance Due": "2024-09-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b8"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692b9"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-10",
+  "Next Maintenance Due": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ba"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-20",
+  "Next Maintenance Due": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692bb"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-30",
+  "Next Maintenance Due": "2024-09-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692bc"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-10",
+  "Next Maintenance Due": "2024-08-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692bd"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-20",
+  "Next Maintenance Due": "2024-06-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692be"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-07-30",
+  "Next Maintenance Due": "2024-07-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692bf"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c0"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-05",
+  "Next Maintenance Due": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c1"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-25",
+  "Next Maintenance Due": "2024-06-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c2"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c3"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-30",
+  "Next Maintenance Due": "2024-08-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c4"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-05",
+  "Next Maintenance Due": "2024-06-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c5"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-25",
+  "Next Maintenance Due": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c6"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-10",
+  "Next Maintenance Due": "2024-08-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c7"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c8"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-05",
+  "Next Maintenance Due": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692c9"
+  },
+  "Laptop Name": "Apple MacBook Air M2",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-05",
+  "Next Maintenance Due": "2024-08-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ca"
+  },
+  "Laptop Name": "Dell XPS 13",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-07-15",
+  "Next Maintenance Due": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692cb"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692cc"
+  },
+  "Laptop Name": "Dell Latitude 7430",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-15",
+  "Next Maintenance Due": "2024-09-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692cd"
+  },
+  "Laptop Name": "Lenovo Yoga C740",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-15",
+  "Next Maintenance Due": "2024-08-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692ce"
+  },
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-25",
+  "Next Maintenance Due": "2024-05-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692cf"
+  },
+  "Laptop Name": "HP Spectre x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-10",
+  "Next Maintenance Due": "2024-07-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d0"
+  },
+  "Laptop Name": "Dell XPS 15",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-20",
+  "Next Maintenance Due": "2024-08-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d1"
+  },
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-05",
+  "Next Maintenance Due": "2024-09-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d2"
+  },
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-06-10",
+  "Next Maintenance Due": "2024-06-10"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d3"
+  },
+  "Laptop Name": "HP Envy x360",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-20",
+  "Next Maintenance Due": "2024-07-20"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d4"
+  },
+  "Laptop Name": "Dell Latitude 7400",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-25",
+  "Next Maintenance Due": "2024-08-25"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d5"
+  },
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Maintenance Status": "Needs Maintenance",
+  "Last Maintenance Date": "2023-05-30",
+  "Next Maintenance Due": "2024-05-30"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d6"
+  },
+  "Laptop Name": "Dell Precision 5550",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-07-15",
+  "Next Maintenance Due": "2024-07-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d7"
+  },
+  "Laptop Name": "Dell Latitude 7420",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-08-05",
+  "Next Maintenance Due": "2024-08-05"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d8"
+  },
+  "Laptop Name": "Lenovo ThinkPad P52",
+  "Maintenance Status": "Needs Inspection",
+  "Last Maintenance Date": "2023-06-15",
+  "Next Maintenance Due": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "66b9ab244c04743d128692d9"
+  },
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Maintenance Status": "Good",
+  "Last Maintenance Date": "2023-09-10",
+  "Next Maintenance Due": "2024-09-10"
+}]

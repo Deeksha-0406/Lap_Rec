@@ -1,0 +1,1474 @@
+[{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869200"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Acer Swift 3",
+  "Reserved": {
+    "reserved_by": "AB",
+    "reservation_date": {
+      "$date": "2024-08-12T13:01:14.545Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869201"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Dell XPS 13",
+  "Reserved": {
+    "reserved_by": "John Doe",
+    "reservation_date": {
+      "$date": "2024-08-12T14:36:21.476Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869202"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869203"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869204"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869205"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869206"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869207"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869208"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869209"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920a"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920b"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920c"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920d"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920e"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286920f"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869210"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Apple MacBook Pro 13\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869211"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869212"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7420",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869213"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869214"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869215"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Acer Swift 3",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869216"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Dell XPS 13",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869217"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869218"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869219"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921a"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921b"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921c"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921d"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921e"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286921f"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869220"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869221"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869222"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869223"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869224"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869225"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869226"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869227"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869228"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869229"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922a"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922b"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922c"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922d"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922e"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286922f"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869230"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869231"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869232"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869233"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869234"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869235"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869236"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869237"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869238"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869239"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923a"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923b"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923c"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923d"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923e"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286923f"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869240"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869241"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869242"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869243"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869244"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869245"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869246"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869247"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869248"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869249"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924a"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924b"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924c"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924d"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924e"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286924f"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869250"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869251"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869252"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869253"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869254"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869255"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869256"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869257"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869258"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869259"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925a"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925b"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925c"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925d"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Envy x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925e"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Pro 16\"",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d1286925f"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad X1",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869260"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 32,
+  "Required Storage (GB)": 2048,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell Precision 5550",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869261"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "Apple MacBook Air M2",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869262"
+  },
+  "Required CPU Speed (GHz)": 2.9,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "HP EliteBook 840 G6",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869263"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7400",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869264"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo ThinkPad T14s",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869265"
+  },
+  "Required CPU Speed (GHz)": 3.2,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 512,
+  "Required GPU": "Yes",
+  "Laptop Name": "HP Spectre x360",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869266"
+  },
+  "Required CPU Speed (GHz)": 3.4,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "Yes",
+  "Laptop Name": "Dell XPS 15",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869267"
+  },
+  "Required CPU Speed (GHz)": 3.1,
+  "Required RAM (GB)": 8,
+  "Required Storage (GB)": 256,
+  "Required GPU": "No",
+  "Laptop Name": "Lenovo Yoga C740",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+},
+{
+  "_id": {
+    "$oid": "64b4676f4c04743d12869268"
+  },
+  "Required CPU Speed (GHz)": 3,
+  "Required RAM (GB)": 16,
+  "Required Storage (GB)": 1024,
+  "Required GPU": "No",
+  "Laptop Name": "Dell Latitude 7430",
+  "Reserved": {
+    "reserved_by": null,
+    "reservation_date": null
+  }
+}]
